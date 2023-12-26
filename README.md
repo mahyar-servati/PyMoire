@@ -42,6 +42,7 @@ By default, the results of twisted bilayer graphene calculations for a twist ang
 In the future, more details such as spin-orbit calculations and the Hubbard model will be added.
 -----------------------------------------------------
 Citation
+
 Pymoire is an open-source Python package designed for the analysis of moiré patterns.
 If you use the Pymoire package in your work, we kindly request you to cite the following reference:
 https://doi.org/10.1016/j.physe.2023.115877
