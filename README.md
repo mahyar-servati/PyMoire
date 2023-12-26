@@ -40,3 +40,19 @@ To calculate different structures, you need to run the DFT/Wannier calculation f
 
 By default, the results of twisted bilayer graphene calculations for a twist angle of 3.48 and 1.05 degrees are placed in the ./out folder including plot of mapped moire sturcture, band structure and DOS data file and their plots, also, the hr.dat file that can be used in other packages like WannierTools and PythTB.
 In the future, more details such as spin-orbit calculations and the Hubbard model will be added.
+-----------------------------------------------------
+Citation
+Pymoire is an open-source Python package designed for the analysis of moiré patterns.
+If you use the Pymoire package in your work, we kindly request you to cite the following reference:
+https://doi.org/10.1016/j.physe.2023.115877
+BibTex:
+@article{servati2023real,
+  title={Real-space tight-binding model for twisted bilayer graphene based on mapped Wannier functions},
+  author={Servati, Mahyar and Rasuli, Reza and Tavana, Ali},
+  journal={Physica E: Low-dimensional Systems and Nanostructures},
+  pages={115877},
+  year={2023},
+  publisher={Elsevier}
+}
+
+
