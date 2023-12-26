@@ -40,6 +40,7 @@ To calculate different structures, you need to run the DFT/Wannier calculation f
 
 By default, the results of twisted bilayer graphene calculations for a twist angle of 3.48 and 1.05 degrees are placed in the ./out folder including plot of mapped moire sturcture, band structure and DOS data file and their plots, also, the hr.dat file that can be used in other packages like WannierTools and PythTB.
 In the future, more details such as spin-orbit calculations and the Hubbard model will be added.
+
 -----------------------------------------------------
 Citation
 
