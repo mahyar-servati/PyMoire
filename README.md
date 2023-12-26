@@ -46,7 +46,9 @@ Citation
 Pymoire is an open-source Python package designed for the analysis of moiré patterns.
 If you use the Pymoire package in your work, we kindly request you to cite the following reference:
 https://doi.org/10.1016/j.physe.2023.115877
+
 BibTex:
+
 @article{servati2023real,
   title={Real-space tight-binding model for twisted bilayer graphene based on mapped Wannier functions},
   author={Servati, Mahyar and Rasuli, Reza and Tavana, Ali},
